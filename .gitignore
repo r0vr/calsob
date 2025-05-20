@@ -1,0 +1,7 @@
+*.db
+__pychache__/
+venv/
+env/
+ENV/
+.py[cod]
+.env
